@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Cocoarynth cacao labyrinth">
-  <rect width="96" height="96" rx="18" fill="#e8b94f"/>
-  <path d="M48 13C29 13 18 27 18 45c0 22 16 34 30 39 14-5 30-17 30-39 0-18-11-32-30-32Z" fill="#db6b58" stroke="#3f2922" stroke-width="5"/>
-  <path d="M48 24v48M34 29c-8 8-8 22 0 30M62 29c8 8 8 22 0 30M28 43h40M29 57h38M37 35h22v28H37Z" fill="none" stroke="#3f2922" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M48 13c2-7 8-10 15-9-1 7-6 12-15 13Z" fill="#66845b" stroke="#3f2922" stroke-width="3"/>
-</svg>

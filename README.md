@@ -1,5 +1,7 @@
 # Cocoarynth Trace
 
+<img src="public/cocoarynth-logo-full.png" alt="Cocoarynth logo" width="280">
+
 Cocoarynth Trace is an internal operations application for following
 single-origin chocolate from cacao harvest through production and wholesale
 shipment. It generates an Origin Passport that captures approved traceability
