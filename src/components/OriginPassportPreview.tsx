@@ -12,7 +12,7 @@ export function OriginPassportPreview({
     <section className="passport-card">
       <div className="section-heading">
         <div>
-          <p className="eyebrow">Immutable export snapshot</p>
+          <p className="eyebrow">Partner-facing traceability</p>
           <h2>Origin Passport</h2>
         </div>
         <a className="button" href={passportDownloadUrl(batchId)} download>

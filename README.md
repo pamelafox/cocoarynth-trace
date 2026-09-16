@@ -15,7 +15,7 @@ details for each shipped batch.
 - Review product, producer, harvest, certification, production, and shipment
   details.
 - Follow a batch from roasting through packaging on a production timeline.
-- Preview and download an immutable Origin Passport for shipped batches.
+- Preview and download an Origin Passport for shipped batches.
 - Export only approved partner-facing fields while keeping supplier contacts,
   negotiated prices, quality notes, operators, and production notes internal.
 
