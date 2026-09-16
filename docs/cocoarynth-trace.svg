@@ -4,9 +4,7 @@
   <rect width="1280" height="720" fill="#f5f1e9"/>
   <rect width="1280" height="76" fill="#3f2922"/>
   <rect y="76" width="1280" height="5" fill="#e8b94f"/>
-  <rect x="58" y="16" width="44" height="44" rx="9" fill="#e8b94f"/>
-  <path d="M80 23c-10 0-16 8-16 17 0 12 8 19 16 23 8-4 16-11 16-23 0-9-6-17-16-17Z" fill="#db6b58" stroke="#3f2922" stroke-width="3"/>
-  <path d="M80 28v29M71 34h18M70 44h20M74 31v22M86 31v22" fill="none" stroke="#3f2922" stroke-width="2"/>
+  <image href="../public/cocoarynth-logo.png" x="58" y="14" width="48" height="48"/>
   <text x="116" y="38" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Cocoarynth</text>
   <text x="116" y="58" fill="#e8b94f" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">TRACE</text>
   <text x="1170" y="46" fill="#d9cec8" font-family="Arial, sans-serif" font-size="12" text-anchor="end" letter-spacing="1">ORIGIN TO SHIPMENT</text>

@@ -7,7 +7,7 @@ single-origin chocolate from cacao harvest through production and wholesale
 shipment. It generates an Origin Passport that captures approved traceability
 details for each shipped batch.
 
-![Cocoarynth Trace batch workspace](docs/cocoarynth-trace.svg)
+![Cocoarynth Trace batch workspace](docs/cocoarynth-trace.png)
 
 ## Features
 
