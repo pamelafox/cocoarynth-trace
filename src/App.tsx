@@ -33,7 +33,7 @@ export function App() {
     <div className="app-shell">
       <header className="app-header">
         <div className="brand">
-          <img src="/cocoarynth-logo.svg" alt="" />
+          <img src="/cocoarynth-logo.png" alt="" />
           <div>
             <strong>Cocoarynth</strong>
             <span>Trace</span>
