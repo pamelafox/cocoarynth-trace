@@ -1,0 +1,48 @@
+import type { Origin } from "../../shared/types.js";
+
+export const origins: Origin[] = [
+  {
+    id: "origin-ecuador-esmeraldas",
+    country: "Ecuador",
+    region: "Esmeraldas",
+    producerName: "Río Verde Cacao Cooperative",
+    harvestYear: 2026,
+    certificationStatus: "Organic verified",
+    producerContactName: "Marisol Vega",
+    producerContactEmail: "marisol@example.invalid",
+    pricePerKilogram: 8.75,
+  },
+  {
+    id: "origin-ghana-suhum",
+    country: "Ghana",
+    region: "Suhum",
+    producerName: "Asempanaye Growers Union",
+    harvestYear: 2026,
+    certificationStatus: "Fair trade verified",
+    producerContactName: "Kojo Mensah",
+    producerContactEmail: "kojo@example.invalid",
+    pricePerKilogram: 7.9,
+  },
+  {
+    id: "origin-peru-piura",
+    country: "Peru",
+    region: "Piura",
+    producerName: "Valle Blanco Cooperative",
+    harvestYear: 2025,
+    certificationStatus: "Organic pending renewal",
+    producerContactName: "Lucía Flores",
+    producerContactEmail: "lucia@example.invalid",
+    pricePerKilogram: 9.15,
+  },
+  {
+    id: "origin-madagascar-sambirano",
+    country: "Madagascar",
+    region: "Sambirano",
+    producerName: "Ambanja Cacao Collective",
+    harvestYear: 2026,
+    certificationStatus: "Direct trade verified",
+    producerContactName: "Fara Rakoto",
+    producerContactEmail: "fara@example.invalid",
+    pricePerKilogram: 10.2,
+  },
+];
