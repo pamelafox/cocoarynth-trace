@@ -19,8 +19,7 @@ details for each shipped batch.
 - Export only approved partner-facing fields while keeping supplier contacts,
   negotiated prices, quality notes, operators, and production notes internal.
 
-Origin Passports are currently available as **JSON downloads**. CSV export is
-planned work and is not implemented.
+Origin Passports are currently available as **JSON downloads**.
 
 ## Local setup
 
